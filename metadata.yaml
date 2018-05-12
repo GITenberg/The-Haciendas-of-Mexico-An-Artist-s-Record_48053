@@ -1,4 +1,8 @@
 _repo: The-Haciendas-of-Mexico-An-Artist-s-Record_48053
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48053-h/images/img-cover-f.jpg
 creator:
   author:
     agent_name: Bartlett, Paul Alexander
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '40002'
     url: http://www.gutenberg.org/2009/agents/40002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48053#The-Haciendas-of-Mexico-An-Artist-s-Record
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
