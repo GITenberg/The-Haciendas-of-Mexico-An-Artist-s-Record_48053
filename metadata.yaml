@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Copyrighted. Read the copyright notice inside this book for details.
 rights_url: ''
+subjects:
+- GITenberg
 title: 'The Haciendas of Mexico
 
   An Artist''s Record'
